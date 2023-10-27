@@ -1,0 +1,17 @@
+html,
+body{
+    height: 100%;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#clickme{
+    width: 100px;
+    height: 50px;
+    border-radius: 25px;
+}
+
